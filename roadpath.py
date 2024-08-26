@@ -64,6 +64,7 @@ def display_results(cities, total_demand_met, total_supply_utilized):
     print(f"Total Supply Utilized: {total_supply_utilized}")
 
 def main():
+# CHANGE THE BELOW TO SUIT NEEDS
     # Define cities with their supply and demand
     global cities
     cities = [
